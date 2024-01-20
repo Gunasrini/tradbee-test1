@@ -1,0 +1,404 @@
+.register-cont {
+  line-height: 1.5;
+}
+
+.search-header {
+  position: relative;
+  width: 100%;
+}
+
+.search-icon {
+  position: absolute;
+  top: 7px;
+  left: 15px;
+}
+
+.search-header .form-control {
+  padding-left: 42px;
+  /* color: #969696; */
+  color: #666;
+}
+
+.search-icon i.fas {
+  color: #999;
+}
+
+.navbar-logo img {
+  width: 160px;
+}
+
+.navbar-right i.far {
+  color: #666;
+}
+
+span.badge {
+  position: absolute;
+  top: -8px;
+  left: 2px;
+}
+
+.header-notification {
+  position: relative;
+}
+
+.left-navbar {
+  height: 100%;
+  position: fixed;
+  width: 240px;
+  padding-left: 10px;
+}
+
+.profile-info {
+  margin: 0 0 0 40px;
+}
+
+img.user-img {
+  width: 30px;
+  border-radius: 5px;
+}
+
+.profile-info span {
+  color: #222;
+  padding: 0 10px;
+}
+
+.left-navbar .nav-item {
+  padding-left: 15px;
+}
+
+.left-navbar .nav-link {
+  color: #000;
+  font-weight: 500;
+}
+
+ul.nav.submenu {
+  padding-left: 15px;
+}
+
+ul.nav.submenu li {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+ul.nav.submenu li .nav-link {
+  font-size: 15px;
+  color: #666;
+  padding-left: 10px;
+}
+
+.right-content {
+  padding-left: 240px;
+}
+
+.content-header {
+  padding: 40px;
+}
+
+.content-header h1 {
+  color: #969696;
+  font-size: 28px;
+}
+
+.content-header h3 {
+  margin-bottom: 0;
+}
+
+.content-header h3 {
+  color: #666;
+  font-size: 16px;
+  margin-top: 25px;
+}
+
+.inprogress-text {
+  font-size: 14px;
+  position: relative;
+  display: inline-block;
+  padding-left: 15px;
+}
+
+.inprogress-text:after {
+  width: 10px;
+  height: 10px;
+  background: #c87a7a;
+  position: absolute;
+  content: "";
+  border-radius: 100%;
+  top: 5px;
+  right: -18px;
+}
+
+.subcontent-wrapper .title {
+  padding: 20px 40px;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+.subcontent-wrapper .title h3 {
+  font-size: 18px;
+  color: #999;
+}
+
+.inner-dashboard {
+  display: flex;
+}
+
+.left-navtabs {
+  width: 20%;
+  padding: 40px 0 0 30px;
+}
+
+.left-navtabs li.nav-item {
+  display: flex;
+  align-items: center;
+}
+
+.left-navtabs a.nav-link {
+  color: #000;
+}
+
+.right-form-content {
+  width: 80%;
+  padding: 40px;
+  border-left: 1px solid #ccc;
+}
+
+.right-form-content h3 {
+  font-size: 26px;
+  margin-bottom: 50px;
+}
+
+.dashboard-form-row {
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+.dashboard-form-row .form-group {
+  width: 100%;
+  position: relative;
+}
+
+.dashboard-form-row .form-group:nth-child(2) .form-control {
+  margin-left: auto;
+}
+
+.dashboard-form-row .form-group .form-control {
+  width: 95%;
+  padding: 0.5rem 3rem 0.5rem 1.2rem;
+}
+
+.form-control-icon {
+  position: absolute;
+  right: 10%;
+  top: 8px;
+}
+
+.dashboard-form-row .form-group:nth-child(2) .form-control-icon {
+  right: 5%;
+}
+
+.radio-group label {
+  font-size: 13px;
+  margin-right: 20px;
+  font-weight: 500;
+  display: flex;
+}
+
+.radio-group {
+  display: flex;
+  margin-top: 5px;
+}
+
+.radio-group input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+.form-add-button .btn {
+  min-width: 100px;
+  font-weight: 500;
+}
+
+.form-add-button {
+  text-align: right;
+}
+
+.nextpage-section {
+  display: flex;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 20px 40px;
+}
+
+.nextpage-section .btn {
+  min-width: 170px;
+  min-height: 45px;
+  /* background: #e8e8e8;
+  border: 1px solid #e8e8e8;
+  color: #afafaf; */
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.company-detail-modal {
+  padding: 40px;
+}
+
+.company-detail-modal h2 {
+  font-size: 20px;
+  margin-bottom: 18px;
+}
+
+.company-detail-modal span {
+  display: inline-block;
+  padding-left: 10%;
+}
+
+.company-detail-modal h4 {
+  font-size: 14px;
+  font-weight: 400;
+  color: #666;
+}
+
+.company-detail-modal h4 strong {
+  min-width: 150px;
+  display: inline-block;
+}
+
+.company-detail-modal .icons {
+  cursor: pointer;
+}
+
+.three-columns .form-group .form-control {
+  width: 100%;
+}
+
+.three-columns>div:nth-child(2) .form-group {
+  padding: 0 30px;
+}
+
+.dashboard-form-row .form-control.file-upload-control {
+  width: 100%;
+  padding: 25px;
+  color: #97a1a8;
+  background: #fff;
+  border: 2px dashed #c8cbce;
+  text-align: center;
+}
+
+.documents-section .nav-link {
+  border: 0;
+  font-size: 12px;
+  font-weight: 500;
+  color: #000;
+  padding: 0 10px 0 20px;
+}
+
+.documents-section .nav-tabs {
+  border: 0;
+  margin-bottom: 20px;
+}
+
+.documents-section .nav-link.active {
+  color: #0d6efd;
+}
+
+.documents-section .nav-item:first-child .nav-link {
+  padding-left: 0;
+}
+
+
+.documents-table {
+  margin-bottom: 40px;
+}
+
+.documents-table table {
+  width: 100%;
+}
+
+.documents-table th {
+  padding-bottom: 20px;
+}
+
+.documents-table tbody td {
+  border: 1px solid #b6b7b7;
+  padding: 15px 20px;
+}
+
+.documents-table .avatar-img {
+  width: 25px;
+  border-radius: 50%;
+}
+
+.documents-table tbody td i.fas {
+  margin-right: 10px;
+}
+
+.cibil-img {
+  width: 80%;
+}
+
+ul.bank-list {
+  padding: 0;
+  margin: 0;
+}
+
+ul.bank-list li {
+  border: 1px solid #b6b7b7;
+  border-radius: 5px;
+  list-style: none;
+  padding: 25px;
+}
+
+ul.bank-list {
+  padding: 0;
+  margin: 0;
+}
+
+ul.bank-list li {
+  border: 1px solid #b6b7b7;
+  border-radius: 5px;
+  list-style: none;
+  padding: 25px;
+  display: inline-flex;
+  width: 100%;
+  align-items: center;
+  position: relative;
+}
+
+ul.bank-list .icon {
+  width: 5%;
+  text-align: center;
+}
+
+.bank-info {
+  width: 70%;
+  padding-left: 20px;
+}
+
+.edit-del-icon {
+  width: 12%;
+  justify-content: space-evenly;
+  display: flex;
+}
+
+ul.bank-list .icon i.fas {
+  color: #0d6efd;
+  font-size: 22px;
+}
+
+.bank-info h4 {
+  font-size: 20px;
+}
+
+.bank-info p {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.verified-text {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  color: #0d6efd;
+}
