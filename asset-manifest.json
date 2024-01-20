@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tradbee-test1/static/css/main.4df704e0.css",
+    "main.js": "/tradbee-test1/static/js/main.cf8f5b04.js",
+    "static/js/787.a951fd29.chunk.js": "/tradbee-test1/static/js/787.a951fd29.chunk.js",
+    "static/media/logo.jpeg": "/tradbee-test1/static/media/logo.ed0c0696eff506e62c25.jpeg",
+    "static/media/cibil-img.png": "/tradbee-test1/static/media/cibil-img.98e1c0c0269931bcb439.png",
+    "index.html": "/tradbee-test1/index.html",
+    "main.4df704e0.css.map": "/tradbee-test1/static/css/main.4df704e0.css.map",
+    "main.cf8f5b04.js.map": "/tradbee-test1/static/js/main.cf8f5b04.js.map",
+    "787.a951fd29.chunk.js.map": "/tradbee-test1/static/js/787.a951fd29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df704e0.css",
+    "static/js/main.cf8f5b04.js"
+  ]
+}
